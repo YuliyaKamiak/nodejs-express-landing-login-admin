@@ -1,0 +1,27 @@
+{
+  "mail_test": {
+    "subject": "Message from the site",
+    "smtp": {
+      "host": "localhost",
+      "port": 1025,
+      "secure": true,
+      "auth": {
+        "user": "localhost@mailhog.local",
+        "pass": "user_password"
+      }
+    }
+  },
+
+  "mail": {
+    "subject": "Message from the site",
+    "smtp": {
+      "host": "smtp.gmail.com",
+      "port": 465,
+      "secure": true,
+      "auth": {
+        "user": "user@gmail.com",
+        "pass": "user_password"
+      }
+    }
+  }
+}
