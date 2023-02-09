@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "number": "28",
+      "text": "Age at which violin lessons started"
+    },
+    {
+      "number": "6",
+      "text": "Concerts played"
+    },
+    {
+      "number": "6",
+      "text": "Maximum number of cities in the tour"
+    },
+    {
+      "number": "3",
+      "text": "Years on stage as a violinist"
+    }
+  ],
+  "products": [
+    {
+      "src": "./assets/img/products/Work1.jpg",
+      "name": "Inspiration",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work2.jpg",
+      "name": "Inspiration",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work3.jpg",
+      "name": "Inspiration",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work4.jpg",
+      "name": "Inspiration",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work5.jpg",
+      "name": "Inspiration",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work6.jpg",
+      "name": "Inspiration",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work7.jpg",
+      "name": "Inspiration",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work8.jpg",
+      "name": "Inspiration",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work9.jpg",
+      "name": "Inspiration",
+      "price": 600
+    },
+    {
+      "src": "\\upload\\Yuliya.jpg",
+      "name": "Heart",
+      "price": "100000"
+    }
+  ],
+  "user": {
+    "email": "yuliya.kamiak@gmail.com",
+    "salt": "dff9ba7ccd1adacba204582daac149b9",
+    "hash": "cd87a200bf2ceec50b9f179bff476bda2bef8dcc4fb3484a709420475d427dabd63afa74d03735283fd3314a5267d55009d8432056adfc7c475f030d814261f69d4f177b2cc69fc3b0dbe95c70be52fb26d65dd52227059b428797cb56c95f68baefc6747559aaeabfb0727ae43856b15f0f93e73687ea1ef7f61dfa36dce0926de922c9b2e7ff6e53993397a04e696d349cb3b50a8d72af30c96e0d87288a02b97586dbce5844510cc45e0d82662620da92642ca90ae5f4da0b8f4c1c6f8f8db28b4c5e6807691de0dfe230f2dd6848a3ac4f8cbe1b682335bb9d24fa56a0947243a76904e88994578df7793d69407e3565c283024f55aa93853e26904a916615714bf4bd547748400e0dac20b3e64b2b6b5c1a18e86f0752a80a740468483bc08ab65c51a242ed38dcb38691d43c56e344d02b4a7ff52f1e404a0577bdf2085fb56206301df56c6ca62f4a74d7d2dd370929efbb7e61bf630301125fb8ba37da07c3dc3262062e5ee2ddc516187f232a6ac284be2232742523d5ba4617f088db0dbc715bcd5296be2a476aac17691a4b669608245e4b1217fe381e1c0442312a87652aee4faae062ccf3b80fc0f684b548edb0c825ab31dd150b428c58ea9be9d8a606f534bc0a08ebd1763e9fdcd2af17f1701e46d5dfca51fc330a2fc25ab9b31665e5180f9a785c78f21fcff07fb33896c6c4825b7cfd8359050d9e9f61"
+  }
+}
